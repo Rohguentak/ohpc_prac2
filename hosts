@@ -1,0 +1,17 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+10.73.10.9 b.local b
+10.73.10.10 adm.local adm
+10.73.10.11 mds1.local mds1
+10.73.10.12 mds2.local mds2
+10.73.10.21 oss1.local oss1
+10.73.10.22 oss2.local oss2
+10.73.10.31 c1.local c1
+10.73.10.32 c2.local c2
+10.73.10.33 c3.local c3
+10.73.10.34 c4.local c4
+10.73.10.35 c5.local c5
+10.73.10.36 c6.local c6
+10.73.10.37 c7.local c7
+10.73.10.38 c8.local c8
